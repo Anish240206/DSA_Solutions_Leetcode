@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0392-is-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2678-number-of-senior-citizens) |
