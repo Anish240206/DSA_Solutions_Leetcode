@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0605-can-place-flowers) |
+| [0929-unique-email-addresses](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0929-unique-email-addresses) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2678-number-of-senior-citizens](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2678-number-of-senior-citizens) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0929-unique-email-addresses](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0929-unique-email-addresses) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0392-is-subsequence) |
+| [0929-unique-email-addresses](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0929-unique-email-addresses) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3110-score-of-a-string) |
