@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0509-fibonacci-number) |
 ## Array
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0217-contains-duplicate) |
