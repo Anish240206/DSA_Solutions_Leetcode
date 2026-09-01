@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0605-can-place-flowers) |
+| [0867-transpose-matrix](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0929-unique-email-addresses) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1929-concatenation-of-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
