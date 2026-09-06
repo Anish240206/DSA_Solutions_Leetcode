@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0929-unique-email-addresses) |
 | [1051-height-checker](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1408-string-matching-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1929-concatenation-of-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0392-is-subsequence) |
 | [0929-unique-email-addresses](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0929-unique-email-addresses) |
+| [1408-string-matching-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3110-score-of-a-string) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
