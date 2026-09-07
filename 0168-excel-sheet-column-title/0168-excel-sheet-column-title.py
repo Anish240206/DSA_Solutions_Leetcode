@@ -1,9 +1,9 @@
 class Solution:
     def convertToTitle(self, columnNumber: int) -> str:
-        res = []
+        result = ""
         while columnNumber > 0:
             columnNumber -= 1
-            offset = columnNumber % 26
-            res += chr(ord('A') + offset)
+            remainder = columnNumber % 26
+            result += chr(ord('A') + remainder)
             columnNumber //= 26
-        return ''.join(reversed(res))
+        return result[::-1]
