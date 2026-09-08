@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2678-number-of-senior-citizens](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2678-number-of-senior-citizens) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
