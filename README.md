@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0929-unique-email-addresses) |
 | [1051-height-checker](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0929-unique-email-addresses](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0929-unique-email-addresses) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Boyer–Moore Majority Vote Algorithm
