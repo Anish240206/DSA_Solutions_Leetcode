@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1929-concatenation-of-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2678-number-of-senior-citizens](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0929-unique-email-addresses) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0342-power-of-four) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
