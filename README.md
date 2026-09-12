@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0217-contains-duplicate) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
