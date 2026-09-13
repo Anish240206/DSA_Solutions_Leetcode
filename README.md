@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0605-can-place-flowers) |
 | [0867-transpose-matrix](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0896-monotonic-array) |
 | [0929-unique-email-addresses](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0929-unique-email-addresses) |
 | [1051-height-checker](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
