@@ -14,6 +14,6 @@ public:
                 return true;
             }
         }
-        return (N==1);
+        return (N == 1);
     }
 };
