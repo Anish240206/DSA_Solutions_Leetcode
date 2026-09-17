@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2678-number-of-senior-citizens](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2678-number-of-senior-citizens) |
