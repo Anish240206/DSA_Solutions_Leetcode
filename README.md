@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1929-concatenation-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2678-number-of-senior-citizens](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0929-unique-email-addresses) |
 | [1408-string-matching-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1768-merge-strings-alternately](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3110-score-of-a-string) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
