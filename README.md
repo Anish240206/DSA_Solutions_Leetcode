@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0896-monotonic-array) |
 | [0929-unique-email-addresses](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0929-unique-email-addresses) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1051-height-checker) |
 ## Simulation
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
