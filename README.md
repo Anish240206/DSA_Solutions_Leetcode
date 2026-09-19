@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2460-apply-operations-to-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
