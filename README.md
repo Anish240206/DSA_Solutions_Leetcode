@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0509-fibonacci-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
