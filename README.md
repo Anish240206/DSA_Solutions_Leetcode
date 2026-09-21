@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/2678-number-of-senior-citizens) |
+| [3033-modify-the-matrix](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3033-modify-the-matrix) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [3033-modify-the-matrix](https://github.com/Anish240206/DSA_Solutions_Leetcode/tree/master/3033-modify-the-matrix) |
 ## Stack
 |  |
 | ------- |
